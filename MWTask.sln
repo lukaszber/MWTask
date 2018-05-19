@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWTask", "MWTask\MWTask.csproj", "{E9E4DEEF-A753-4E7F-9AD8-85BEE6053A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWTask.Tests", "MWTask.Tests\MWTask.Tests.csproj", "{81FC5213-C13D-4540-8978-3B929ACC5ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9E4DEEF-A753-4E7F-9AD8-85BEE6053A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E4DEEF-A753-4E7F-9AD8-85BEE6053A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E4DEEF-A753-4E7F-9AD8-85BEE6053A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E4DEEF-A753-4E7F-9AD8-85BEE6053A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FC5213-C13D-4540-8978-3B929ACC5ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FC5213-C13D-4540-8978-3B929ACC5ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FC5213-C13D-4540-8978-3B929ACC5ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FC5213-C13D-4540-8978-3B929ACC5ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E534D023-157D-4E1E-A519-240E87A4476A}
+	EndGlobalSection
+EndGlobal
